@@ -1,0 +1,26 @@
+06.10.2016 16.38.58 ---> [S] ************************************************** PROGRAMMA AVVIATO ****************************************************
+06.10.2016 16.38.58 ---> [E] ----------------------------------------------------------------------------------------------------
+06.10.2016 16.38.58 ---> [E] Errore in classe: [ DBOracleManager.getDept() ]
+06.10.2016 16.38.58 ---> [E] ORA-00904: "DPDELETED": identificativo non valido
+
+06.10.2016 16.38.58 ---> [E] SELECT TRIM(DPDEPT),       TRIM(DPALPH),       DPENABLED,       TRIM(DPINSERTUSER),       TO_CHAR(DPINSERTDATE,'DD/MM/YYYY HH24.MI.SS'),       TRIM(DPUPDATEUSER),       TO_CHAR(DPUPDATEDATE,'DD/MM/YYYY HH24.MI.SS')   FROM F55FQ10009  WHERE DPDELETED = '0'  ORDER BY DPDEPT 
+06.10.2016 16.38.58 ---> [E] ----------------------------------------------------------------------------------------------------
+06.10.2016 16.38.58 ---> [E] ----------------------------------------------------------------------------------------------------
+06.10.2016 16.38.58 ---> [E] Errore in classe: [ DBOracleManager.getIsland() ]
+06.10.2016 16.38.58 ---> [E] ORA-00904: "ISDEPT": identificativo non valido
+
+06.10.2016 16.38.58 ---> [E] SELECT TRIM(ISADDR),       TRIM(ISUKID),       TRIM(ISALPH),       TRIM(ISDEPT),       ISENABLED,       ISENABLEDITEMSEL,       ISMODE,       ISMULTI,       TRIM(ISINSERTUSER),       TO_CHAR(ISINSERTDATE,'DD/MM/YYYY HH24.MI.SS'),       TRIM(ISUPDATEUSER),       TO_CHAR(ISUPDATEDATE,'DD/MM/YYYY HH24.MI.SS')   FROM F55FQ10006  WHERE ISDELETED = '0'  ORDER BY ISUKID 
+06.10.2016 16.38.58 ---> [E] ----------------------------------------------------------------------------------------------------
+06.10.2016 16.38.58 ---> [E] ----------------------------------------------------------------------------------------------------
+06.10.2016 16.38.58 ---> [E] Errore in classe: [ DBOracleManager.getDept() ]
+06.10.2016 16.38.58 ---> [E] ORA-00904: "DPDELETED": identificativo non valido
+
+06.10.2016 16.38.58 ---> [E] SELECT TRIM(DPDEPT),       TRIM(DPALPH),       DPENABLED,       TRIM(DPINSERTUSER),       TO_CHAR(DPINSERTDATE,'DD/MM/YYYY HH24.MI.SS'),       TRIM(DPUPDATEUSER),       TO_CHAR(DPUPDATEDATE,'DD/MM/YYYY HH24.MI.SS')   FROM F55FQ10009  WHERE DPDELETED = '0'  ORDER BY DPDEPT 
+06.10.2016 16.38.58 ---> [E] ----------------------------------------------------------------------------------------------------
+06.10.2016 16.38.58 ---> [E] ----------------------------------------------------------------------------------------------------
+06.10.2016 16.38.58 ---> [E] Errore in classe: [ DBOracleManager.getIsland() ]
+06.10.2016 16.38.58 ---> [E] ORA-00904: "ISDEPT": identificativo non valido
+
+06.10.2016 16.38.58 ---> [E] SELECT TRIM(ISADDR),       TRIM(ISUKID),       TRIM(ISALPH),       TRIM(ISDEPT),       ISENABLED,       ISENABLEDITEMSEL,       ISMODE,       ISMULTI,       TRIM(ISINSERTUSER),       TO_CHAR(ISINSERTDATE,'DD/MM/YYYY HH24.MI.SS'),       TRIM(ISUPDATEUSER),       TO_CHAR(ISUPDATEDATE,'DD/MM/YYYY HH24.MI.SS')   FROM F55FQ10006  WHERE ISDELETED = '0'  ORDER BY ISUKID 
+06.10.2016 16.38.58 ---> [E] ----------------------------------------------------------------------------------------------------
+06.10.2016 16.38.58 ---> [F] ************************************************** PROGRAMMA TERMINATO **************************************************

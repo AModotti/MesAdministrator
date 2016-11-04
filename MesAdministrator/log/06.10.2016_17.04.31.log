@@ -1,0 +1,8 @@
+06.10.2016 17.04.31 ---> [S] ************************************************** PROGRAMMA AVVIATO ****************************************************
+06.10.2016 17.04.31 ---> [E] ----------------------------------------------------------------------------------------------------
+06.10.2016 17.04.31 ---> [E] Errore in classe: [ DBOracleManager.getIsland() ]
+06.10.2016 17.04.31 ---> [E] ORA-00904: "ISDEPT": identificativo non valido
+
+06.10.2016 17.04.31 ---> [E] SELECT TRIM(ISADDR),       TRIM(ISUKID),       TRIM(ISALPH),       TRIM(ISDEPT),       ISENABLED,       ISENABLEDITEMSEL,       ISMODE,       ISMULTI,       TRIM(ISINSERTUSER),       TO_CHAR(ISINSERTDATE,'DD/MM/YYYY HH24.MI.SS'),       TRIM(ISUPDATEUSER),       TO_CHAR(ISUPDATEDATE,'DD/MM/YYYY HH24.MI.SS')   FROM F55FQ10006  WHERE ISDELETED = '0'  ORDER BY ISUKID 
+06.10.2016 17.04.31 ---> [E] ----------------------------------------------------------------------------------------------------
+06.10.2016 17.04.31 ---> [F] ************************************************** PROGRAMMA TERMINATO **************************************************
